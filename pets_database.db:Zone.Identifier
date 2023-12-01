@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/learn-co-curriculum/python-p3-sql-crud/blob/main/pets_database.db
+HostUrl=https://raw.githubusercontent.com/learn-co-curriculum/python-p3-sql-crud/main/pets_database.db
